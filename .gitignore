@@ -398,3 +398,4 @@ FodyWeavers.xsd
 
 # Гонщик JetBrains
 *.sln.iml
+*.csproj
